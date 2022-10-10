@@ -1,15 +1,15 @@
-<Knihy>
-    <kniha id="1" jmeno="Dívka beze jména" vytvoreni="2021">
-        <zanry>
-    <zanr id="1" jmeno="Thriller">
-    <zanr id="2" jmeno="Detektivka">
-        <zanry>
+<Filmy>
+    <Film id="1" jmeno="Spiderman" vytvoreni="2002">
+        <Zanry>
+    <Zanr id="1" jmeno="Dobrodružný">
+    <Zanr id="2" jmeno="Fantasy">
+        <Zanry>
 
-    </Kniha>
-    <Kniha id="2" jmeno="Mizející dívky" vytvoreni="2020">
-        <zanry>
-    <zanr id="3" name="Světová literatura">
-    <zanr id="4" name="Thriller">
-        </zanry>
-    </Kniha>
-</Knihy>
+    </Film>
+    <film id="2" jmeno="The Batman" vytvoreni="2022
+        <Zanry>
+    <Zanr id="3" name="Drama":
+    <Zanr id="3" name="Mysteriózní"           
+        </Zanry>
+   </Film>
+</Filmy>
