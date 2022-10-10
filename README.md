@@ -5,28 +5,27 @@ index.yml
 U YML to byl pouze nástřel, avšak si myslím, že je to na velmi podobné bázi. 
 Některé věci by tam měli být správně.
 
-# Knihy
+# Filmy
 
 index.xml
 
-
-### `<knihy>`
-### `<kniha>`
-- Atribut pro knihu
-- Podkategorie `<knihy>`
+### `<filmy>`
+### `<film>`
+- Atribut pro Film
+- Podkategorie `<filmy>`
 - Atributy:
     - `id`: identifikátor
-    - `name`: název knihy
-    - `year`: datum vydání
+    - `name`: název filmu
+    - `year`: rok vydání
 
 ### `<Zanry>`
 - **Hlavní atribut** 
 - Atribut pro žánry
-- Podkategorie `<knihy>`
+- Podkategorie `<filmy>`
 
 ### `<zanr>`
 - Atribut pro žánr
 - Podkategorie `<Zanry>`
 - Atributy:
     - `id`: identifikátor
-    - `name`: název žánru
+    - `name`: název žánr
